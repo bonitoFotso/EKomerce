@@ -29,7 +29,7 @@
     "@mui/material": "^5.14.12",
     "@mui/x-data-grid": "^6.18.4",
     "apexcharts": "^3.43.0",
-    "axios": "^1.6.2",
+    "axios": "^1.6.4",
     "clsx": "^2.0.0",
     "date-fns": "^2.30.0",
     "formic": "^0.0.10",
